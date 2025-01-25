@@ -6,3 +6,8 @@ What I learn in this tutorial are:
 1. Reading in Files in Pandas
 2. Filtering Columns and Rows in Pandas
 3. Indexes in Pandas
+4. Group By and Aggregate Functions in Pandas
+5. Merging DataFrames in Pandas
+6. Creating Visualizations using Pandas Library
+7. Data Cleaning in Pandas
+8. Exploratory Data Analysis in Pandas
